@@ -4,10 +4,10 @@
 - in this app you can find best self development and fiction books
 
 ##How to run it
-1. a
-2. b
-3. c
-4. d
-5. e
-6. f
-7. g
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
